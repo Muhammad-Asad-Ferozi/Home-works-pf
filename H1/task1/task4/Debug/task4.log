@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Ali Computers\Desktop\asad\2nd semester\h11\task1\task4\Source.c(4,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  task4.vcxproj -> C:\Users\Ali Computers\Desktop\asad\2nd semester\h11\task1\Debug\task4.exe

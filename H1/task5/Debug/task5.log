@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Ali Computers\Desktop\asad\2nd semester\h11\task5\Source.c(7,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Ali Computers\Desktop\asad\2nd semester\h11\task5\Source.c(8,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  task5.vcxproj -> C:\Users\Ali Computers\Desktop\asad\2nd semester\h11\task1\Debug\task5.exe
