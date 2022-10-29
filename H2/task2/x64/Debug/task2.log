@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Ali Computers\Desktop\asad\2nd semester\H2\task2\Source.c(16,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ali Computers\Desktop\asad\2nd semester\H2\task2\Source.c(23,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  task2.vcxproj -> C:\Users\Ali Computers\Desktop\asad\2nd semester\H2\task1\x64\Debug\task2.exe
